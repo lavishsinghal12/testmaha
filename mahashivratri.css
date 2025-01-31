@@ -207,7 +207,10 @@ span{
 }
 
 /* hero banner slider  */
-.page-header { background: url("file:///C:/Users/Dell/Downloads/WhatsApp%20Image%202025-01-31%20at%2011.48.39%20AM.jpeg")no-repeat; position: relative; background-size: cover; }
+/* .page-header { background: url("file:///C:/Users/Dell/Downloads/WhatsApp%20Image%202025-01-31%20at%2011.48.39%20AM.jpeg")no-repeat; position: relative; background-size: cover; } */
+.page-header{
+	background-color:grey;
+}
 .page-caption { padding-top: 170px; padding-bottom: 200px; }
 .page-title { font-size: 37px; line-height: 1; color: #fff; font-weight: 600; text-align: center; 
   font-family: "Jacques Francois Shadow", serif;
@@ -790,7 +793,8 @@ main {
   height: 500px;
   background-position: center;
   background-size: cover;
-  background-image: url("file:///C:/Users/Dell/Downloads/Untitled%20design%20(2).png");
+/*   background-image: url("file:///C:/Users/Dell/Downloads/Untitled%20design%20(2).png"); */
+	background-image:url("https://tse3.mm.bing.net/th?id=OIP.nXC1J2ppmXD6OdshSgJPhQHaEj&pid=Api&P=0&h=180");
   background-attachment: fixed;
   color: white;
   display: flex;
